@@ -1,0 +1,36 @@
+_repo: Ratsumies-Peter-Halket-Mashonamaasta_16075
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Malmberg, Aino
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '5957'
+    url: http://www.gutenberg.org/2009/agents/5957
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schreiner, Olive
+    alias: Iron, Ralph
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '632'
+    url: http://www.gutenberg.org/2009/agents/632
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Schreiner
+description: ''
+gutenberg_issued: '2005-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16075'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, Southern -- Fiction'
+- !lcsh 'Zimbabwe -- History -- Shona Revolt, 1896-1897 -- Fiction'
+- !lcc 'PR'
+title: Ratsumies Peter Halket Mashonamaasta
+url: http://www.gutenberg.org/ebooks/16075
